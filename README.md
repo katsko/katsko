@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Alex and I have over 10 years of backend development. I like to create API on Python and sometime I make user interface on html.
+
+My main stack:
+
+- 🐍 Python
+- 💻 Django
+- 🐘 PostgreSQL
+- 🐧 Linux
+
 <!--
 **katsko/katsko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
